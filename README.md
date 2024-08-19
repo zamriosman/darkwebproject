@@ -7,7 +7,7 @@
 1. To identify dark web sources regarding forum and marketplace in the dark web related to data breached, carding, credential selling, ransomware group, sensitive information (military and intellihence).
 2. To identify technique processing approaches and methods used in dark web (onion link) for data preservation and investigation.
 3. To develop media extractor, page extractor and text extractor for dark web (onion link) for data preservation and database indexing.
-4. To develiop social network profiling for specific account and their respective relationship with other accounts and managing social media data.
+4. To develop social network profiling for specific account and their respective relationship with other accounts and managing social media data.
 
 ## Deliveralbles 
 1. One technical report that discussess the recent studies and finding analysis.
